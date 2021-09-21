@@ -16,10 +16,11 @@
 
 ### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝙶𝚘𝚘𝚍 𝚏𝚘𝚘𝚍, 𝚝𝚎𝚊, 𝚊𝚗𝚍 𝚌𝚘𝚏𝚏𝚎𝚎 𝚠𝚒𝚕𝚕 𝚊𝚕𝚠𝚊𝚢𝚜 𝚜𝚞𝚖𝚖𝚘𝚗 𝚖𝚎!
- 𝙾𝚑 𝚊𝚗𝚍 𝚖𝚢 𝚎𝚖𝚊𝚒𝚕...𝚝𝚑𝚊𝚝 𝚍𝚘𝚎𝚜 𝚝𝚑𝚎 𝚓𝚘𝚋 𝚝𝚘𝚘: [𝚊𝚛𝚒𝚎𝚕.𝚢𝚌.𝚕𝚒𝚞@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:ariel.yc.liu@gmail.com)
+
+𝙾𝚑 𝚊𝚗𝚍 𝚖𝚢 𝚎𝚖𝚊𝚒𝚕...𝚝𝚑𝚊𝚝 𝚍𝚘𝚎𝚜 𝚝𝚑𝚎 𝚓𝚘𝚋 𝚝𝚘𝚘:  [𝚊𝚛𝚒𝚎𝚕.𝚢𝚌.𝚕𝚒𝚞@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:ariel.yc.liu@gmail.com)
+
 
 ---
-
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielycliu&layout=compact&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff)](https://github.com/arielycliu/github-readme-stats)
