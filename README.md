@@ -20,6 +20,10 @@
 
 𝙾𝚑 𝚊𝚗𝚍 𝚖𝚢 𝚎𝚖𝚊𝚒𝚕...𝚝𝚑𝚊𝚝 𝚍𝚘𝚎𝚜 𝚝𝚑𝚎 𝚓𝚘𝚋 𝚝𝚘𝚘:  [𝚊𝚛𝚒𝚎𝚕.𝚢𝚌.𝚕𝚒𝚞@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:ariel.yc.liu@gmail.com)
 
+### 🍒 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚝𝚑𝚎 𝚏𝚛𝚞𝚒𝚝𝚜 𝚘𝚏 𝚖𝚢 𝚕𝚊𝚋𝚘𝚛: 
+[My 𝙼𝚎𝚍𝚒𝚞𝚖 ](https://ariel-yc-liu.medium.com/)
+    
+[ My 𝙳𝚎𝚟𝚙𝚘𝚜𝚝](https://devpost.com/arielycliu)
 
 ---
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
