@@ -25,6 +25,20 @@
     
 [ 𝙼𝚢 𝙳𝚎𝚟𝚙𝚘𝚜𝚝](https://devpost.com/arielycliu)
 
+
+### 🧰 𝙼𝚢 𝚃𝚘𝚘𝚕𝚔𝚒𝚝
+- jupyter notebooks (OpenCV, CNNs)
+- Java
+- Python
+- C++
+- HTML and CSS
+- Github
+
+- Video editing
+- FireAlpaca (Digital art)
+- Watercolor
+- Figma
+
 ---
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
 
