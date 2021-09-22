@@ -25,7 +25,12 @@
     
 [ 𝙼𝚢 𝙳𝚎𝚟𝚙𝚘𝚜𝚝](https://devpost.com/arielycliu)
 
+---
+![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielycliu&layout=compact&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff)](https://github.com/arielycliu/github-readme-stats)
+
+---
 ### 🧰 𝙼𝚢 𝚃𝚘𝚘𝚕𝚔𝚒𝚝
 - jupyter notebooks (OpenCV, CNNs)
 - Java
@@ -38,11 +43,6 @@
 - FireAlpaca (Digital art)
 - Watercolor
 - Figma
-
----
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielycliu&layout=compact&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff)](https://github.com/arielycliu/github-readme-stats)
 
 
 <!--
