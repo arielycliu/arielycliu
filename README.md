@@ -32,13 +32,20 @@
 
 ---
 ### 🧰 𝙼𝚢 𝚃𝚘𝚘𝚕𝚔𝚒𝚝
+AI
 - jupyter notebooks (OpenCV, CNNs)
+
+IoT
+- Arduino, ESP
+
+Languages
 - Java
 - Python
 - C++
 - HTML and CSS
 - Github
 
+Other
 - Video editing
 - FireAlpaca (Digital art)
 - Watercolor
