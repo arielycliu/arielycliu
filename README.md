@@ -31,9 +31,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielycliu&layout=compact&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff)](https://github.com/arielycliu/github-readme-stats)
 
 ---
-### 🧰 𝙼𝚢 𝚃𝚘𝚘𝚕𝚔𝚒𝚝
-AI
-- jupyter notebooks (OpenCV, CNNs)
+### 🧰 𝙼𝚢 𝚃𝚘𝚘𝚕𝚔𝚒𝚝: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+#### 𝙰𝙸 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
+- 𝚃𝚎𝚗𝚜𝚘𝚛𝚏𝚕𝚘𝚠, 𝙺𝚎𝚛𝚊𝚜, 𝙿𝚊𝚗𝚍𝚊𝚜, 𝙽𝚞𝚖𝚙𝚢, 𝚂𝚔𝚕𝚎𝚊𝚛𝚗, 𝙾𝚙𝚎𝚗𝙲𝚅 (𝙸 𝚞𝚜𝚎 𝚓𝚞𝚙𝚢𝚝𝚎𝚛 𝚗𝚘𝚝𝚎𝚋𝚘𝚘𝚔𝚜)
 
 IoT
 - Arduino, ESP
