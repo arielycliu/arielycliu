@@ -31,6 +31,7 @@
     <a href="https://ariel-yc-liu.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+
 ---
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
 
@@ -48,6 +49,21 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
+<details>
+  <summary💎 𝙼𝚢 𝚂𝚔𝚒𝚕𝚕𝚜𝚎𝚝𝚜:</summary>
+    <h4>𝙰𝙸 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐</h4>
+    <ul>-  𝚃𝚎𝚗𝚜𝚘𝚛𝚏𝚕𝚘𝚠, 𝙺𝚎𝚛𝚊𝚜, 𝙿𝚊𝚗𝚍𝚊𝚜, 𝙽𝚞𝚖𝚙𝚢, 𝚂𝚔𝚕𝚎𝚊𝚛𝚗, 𝙾𝚙𝚎𝚗𝙲𝚅 (𝙸 𝚞𝚜𝚎 𝚓𝚞𝚙𝚢𝚝𝚎𝚛 𝚗𝚘𝚝𝚎𝚋𝚘𝚘𝚔𝚜)</ul>
+    <h4>𝙸𝚘𝚃 𝚊𝚗𝚍 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜</h4>
+    <ul>-  𝙰𝚛𝚍𝚞𝚒𝚗𝚘 𝚊𝚗𝚍 𝙴𝚂𝙿 𝚖𝚒𝚌𝚛𝚘𝚌𝚘𝚗𝚝𝚛𝚘𝚕𝚕𝚎𝚛</ul>
+    <h4>𝙾𝚝𝚑𝚎𝚛 𝚃𝚘𝚘𝚕𝚜</h4>
+    <ul>-  𝚅𝚒𝚍𝚎𝚘 𝚎𝚍𝚒𝚝𝚒𝚗𝚐</ul>
+    <ul>-  𝙵𝚒𝚛𝚎𝙰𝚕𝚙𝚊𝚌𝚊 - 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝚊𝚛𝚝</ul>
+    <ul>-  𝚆𝚊𝚝𝚎𝚛𝚌𝚘𝚕𝚘𝚛</ul>
+    <ul>-  𝙵𝚒𝚐𝚖𝚊</ul>  
+</details> 
+
+<!--
+
 #### 𝙰𝙸 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
 - 𝚃𝚎𝚗𝚜𝚘𝚛𝚏𝚕𝚘𝚠, 𝙺𝚎𝚛𝚊𝚜, 𝙿𝚊𝚗𝚍𝚊𝚜, 𝙽𝚞𝚖𝚙𝚢, 𝚂𝚔𝚕𝚎𝚊𝚛𝚗, 𝙾𝚙𝚎𝚗𝙲𝚅 (𝙸 𝚞𝚜𝚎 𝚓𝚞𝚙𝚢𝚝𝚎𝚛 𝚗𝚘𝚝𝚎𝚋𝚘𝚘𝚔𝚜)
 
@@ -59,12 +75,7 @@
 - 𝙵𝚒𝚛𝚎𝙰𝚕𝚙𝚊𝚌𝚊 - 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝚊𝚛𝚝
 - 𝚆𝚊𝚝𝚎𝚛𝚌𝚘𝚕𝚘𝚛
 - 𝙵𝚒𝚐𝚖𝚊
-
-
-
-<!--
-
- <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+ <a href="https://twitter.com/ArielCode1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 
 https://yaytext.com/monospace/
 &bg_color=30,e96443,904e95
