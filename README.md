@@ -21,14 +21,14 @@
 𝙾𝚑 𝚊𝚗𝚍 𝚖𝚢 𝚎𝚖𝚊𝚒𝚕...𝚝𝚑𝚊𝚝 𝚍𝚘𝚎𝚜 𝚝𝚑𝚎 𝚓𝚘𝚋 𝚝𝚘𝚘:  [𝚊𝚛𝚒𝚎𝚕.𝚢𝚌.𝚕𝚒𝚞@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:ariel.yc.liu@gmail.com)
 
 ### 🍒 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚝𝚑𝚎 𝚏𝚛𝚞𝚒𝚝𝚜 𝚘𝚏 𝚖𝚢 𝚕𝚊𝚋𝚘𝚛: 
-[𝙼𝚢 𝙼𝚎𝚍𝚒𝚞𝚖 ](https://ariel-yc-liu.medium.com/)
+[𝙼𝚢 𝙼𝚎𝚍𝚒𝚞𝚖 ](https://medium.com/@arielycliu)
     
 [ 𝙼𝚢 𝙳𝚎𝚟𝚙𝚘𝚜𝚝](https://devpost.com/arielycliu)
 
 <p>
     <a href="https://github.com/arielycliu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-    <a href="https://www.linkedin.com/in/ariel-yc-liu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="https://ariel-yc-liu.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/arielycliu " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="https://medium.com/@arielycliu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 
