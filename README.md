@@ -64,6 +64,32 @@
 </details> 
 
 
+```
+class StudentDeveloper:
+    
+    def __init__(self):
+        self.name = "Ariel Liu"
+        self.role = "Student Developer"
+        self.school = "Woodlands Secondary"
+        self.currentFocus = "Learning Web Development"
+        self.myToolkit = {
+            "Website Dev" = ["HTML", "CSS", "Javascript"],
+            "AI and ML" = ["Tensorflow", "Keras", "OpenCV", "Sklearn", "Numpy", "Pandas"],
+            "IoT and Microcontrollers" = ["Arduino", "ESP"],
+						"Art, Design, and Editing" = {
+					      "Digital Design and Art" = ["Fire Alpaca", "Figma"],
+                "3D and 2D Design" = ["Autocad", "Inventor"],
+                "Video and Audio editing" = ["Audacity", "Powerdirector"]
+            }
+        }
+
+    def says_welcome(self):
+		print("Thanks for visiting my site, hope you have a great time here")
+        
+Ariel = StudentDeveloper()
+Ariel.says_welcome()
+```
+
 <!--
 
 #### 𝙰𝙸 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
