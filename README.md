@@ -52,6 +52,8 @@
 
 <details>
   <summary>My Skillsets:</summary>
+    <h4>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h4>
+    <ul>-  𝙿𝚢𝚝𝚑𝚘𝚗, 𝙹𝚊𝚟𝚊, 𝙲++</ul>
     <h4>𝙰𝙸 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐</h4>
     <ul>-  𝚃𝚎𝚗𝚜𝚘𝚛𝚏𝚕𝚘𝚠, 𝙺𝚎𝚛𝚊𝚜, 𝙿𝚊𝚗𝚍𝚊𝚜, 𝙽𝚞𝚖𝚙𝚢, 𝚂𝚔𝚕𝚎𝚊𝚛𝚗, 𝙾𝚙𝚎𝚗𝙲𝚅 (𝙸 𝚞𝚜𝚎 𝚓𝚞𝚙𝚢𝚝𝚎𝚛 𝚗𝚘𝚝𝚎𝚋𝚘𝚘𝚔𝚜)</ul>
     <h4>𝙸𝚘𝚃 𝚊𝚗𝚍 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜</h4>
@@ -73,6 +75,7 @@ class StudentDeveloper:
         self.school = "Woodlands Secondary"
         self.currentFocus = "Learning Web Development"
         self.myToolkit = {
+	    "Languages" = ["Python", "Java", "C++"],
             "Website Dev" = ["HTML", "CSS", "Javascript"],
             "AI and ML" = ["Tensorflow", "Keras", "OpenCV", "Sklearn", "Numpy", "Pandas"],
             "IoT and Microcontrollers" = ["Arduino", "ESP"],
