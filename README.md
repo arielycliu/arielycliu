@@ -9,7 +9,7 @@
 
 ### 🔨 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗:
 - [ ] 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚚𝚞𝚊𝚗𝚝𝚞𝚖 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 -> quantum number generator
-- [ ] Learning Unity -> building platformer
+- [x] Learning Unity -> building platformer
 - [ ] Building new Keras projects
 - [x] 𝚆𝚎𝚋𝚜𝚒𝚝𝚎
 - [ ] 𝙳𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝙰𝙸 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 - 𝚗𝚘𝚝𝚎𝚜/𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜/𝚟𝚒𝚍𝚎𝚘𝚜 -> making notion guide
@@ -28,7 +28,7 @@
 
 <p>
     <a href="https://github.com/arielycliu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-    <a href="www.linkedin.com/in/arielycliu " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="https://www.linkedin.com/in/arielycliu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
     <a href="https://medium.com/@arielycliu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="https://devpost.com/arielycliu" target="_blank"><img alt="Devpost" src="https://img.shields.io/badge/devpost-%230077B5.svg?&style=for-the-badge&logo=devpost&logoColor=white" /></a>
 </p>
