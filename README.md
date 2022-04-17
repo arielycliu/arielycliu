@@ -8,6 +8,8 @@
 - 𝙸 𝚜𝚞𝚌𝚔 𝚊𝚝 𝚍𝚘𝚒𝚗𝚐 𝚌𝚊𝚙𝚝𝚌𝚑𝚊𝚜 D:
 
 ### 🔨 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗:
+- [ ] New personal website
+- [ ] Hack the Woods COMING SOON
 - [ ] 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚚𝚞𝚊𝚗𝚝𝚞𝚖 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 -> quantum number generator
 - [x] Learning Unity -> building platformer
 - [ ] Building new Keras projects
