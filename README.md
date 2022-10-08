@@ -38,9 +38,9 @@
 
 
 ---
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
+<!-- ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielycliu&layout=compact&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff)](https://github.com/arielycliu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielycliu&layout=compact&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff)](https://github.com/arielycliu/github-readme-stats) -->
 
 ---
 ### 🧰 𝙼𝚢 𝚃𝚘𝚘𝚕𝚔𝚒𝚝: 
@@ -70,6 +70,9 @@
 </details> 
 
 
+
+
+<!--
 ```
 class StudentDeveloper:
     
@@ -97,7 +100,6 @@ Ariel = StudentDeveloper()
 Ariel.says_welcome()
 ```
 
-<!--
 
 #### 𝙰𝙸 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
 - 𝚃𝚎𝚗𝚜𝚘𝚛𝚏𝚕𝚘𝚠, 𝙺𝚎𝚛𝚊𝚜, 𝙿𝚊𝚗𝚍𝚊𝚜, 𝙽𝚞𝚖𝚙𝚢, 𝚂𝚔𝚕𝚎𝚊𝚛𝚗, 𝙾𝚙𝚎𝚗𝙲𝚅 (𝙸 𝚞𝚜𝚎 𝚓𝚞𝚙𝚢𝚝𝚎𝚛 𝚗𝚘𝚝𝚎𝚋𝚘𝚘𝚔𝚜)
