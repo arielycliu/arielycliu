@@ -5,19 +5,20 @@
 - 𝙸 𝚕𝚘𝚟𝚎 𝚖𝚊𝚔𝚒𝚗𝚐 𝚖𝚊𝚌𝚊𝚛𝚘𝚗𝚜! (𝙲𝚘𝚏𝚏𝚎𝚎 𝚏𝚕𝚊𝚟𝚘𝚞𝚛𝚎𝚍 𝚒𝚜 𝚝𝚑𝚎 𝚋𝚎𝚜𝚝 ☕)
 - 𝙸 𝚏𝚘𝚌𝚞𝚜 𝚖𝚊𝚒𝚗𝚕𝚢 𝚘𝚗 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝙼𝙻, 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌𝚊𝚕𝚕𝚢 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚟𝚒𝚜𝚒𝚘𝚗 (𝚊𝚗𝚍 𝚖𝚘𝚛𝚎 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌𝚊𝚕𝚕𝚢 𝚠𝚑𝚊𝚝𝚎𝚟𝚎𝚛 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝙸 𝚏𝚒𝚗𝚍 𝚌𝚘𝚘𝚕 ✨ )
 - 𝙸 𝚕𝚘𝚟𝚎 𝚖𝚢 𝚌𝚊𝚝! (𝙽𝚘𝚝 𝚜𝚞𝚛𝚎 𝚒𝚏 𝚝𝚑𝚎 𝚏𝚎𝚎𝚕𝚒𝚗𝚐 𝚒𝚜 𝚖𝚞𝚝𝚞𝚊𝚕 𝚝𝚑𝚘𝚞𝚐𝚑.)
-- 𝙸 𝚜𝚞𝚌𝚔 𝚊𝚝 𝚍𝚘𝚒𝚗𝚐 𝚌𝚊𝚙𝚝𝚌𝚑𝚊𝚜 D:
+- 𝙸 𝚜𝚞𝚌𝚔 𝚊𝚝 𝚍𝚘𝚒𝚗𝚐 𝚌𝚊𝚙𝚝𝚌𝚑𝚊𝚜 𝙳:
+
+[𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚠𝚎𝚋𝚜𝚒𝚝𝚎!](https://arielycliu.github.io/)
 
 ### 🔨 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗:
+- [ ] Becoming a SQL Expert
 - [ ] Full Stack
+- [ ] Learning Advanced Github (On Hold)
 - [x] New personal website
 - [x] Hack the Woods
-- [x] 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚚𝚞𝚊𝚗𝚝𝚞𝚖 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 -> quantum number generator
-- [x] Learning Unity -> building platformer
-- [ ] Building new Keras projects
-- [x] 𝚆𝚎𝚋𝚜𝚒𝚝𝚎
-- [ ] 𝙳𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝙰𝙸 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 - 𝚗𝚘𝚝𝚎𝚜/𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜/𝚟𝚒𝚍𝚎𝚘𝚜 -> making notion guide (WIP)
-- [x] 𝙲𝚊𝚕𝚘𝚛𝙼𝚎 𝚖𝚘𝚍𝚎𝚕 𝚊𝚗𝚍 𝚊𝚛𝚝𝚒𝚌𝚕𝚎 𝚏𝚘𝚛 𝙲𝚊𝚕𝚘𝚛𝙼𝚎
-- [x] 𝙶𝚘𝚞𝚊𝚌𝚑𝚎
+- [x] Learning quantum computing basics -> quantum number generator
+- [x] Learning Unity -> building a platformer game
+- [ ] Building new Keras projects!
+- [ ] Documenting my AI journey -> making a notion guide (On Hold)
 
 ### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝙶𝚘𝚘𝚍 𝚏𝚘𝚘𝚍, 𝚝𝚎𝚊, 𝚊𝚗𝚍 𝚌𝚘𝚏𝚏𝚎𝚎 𝚠𝚒𝚕𝚕 𝚊𝚕𝚠𝚊𝚢𝚜 𝚜𝚞𝚖𝚖𝚘𝚗 𝚖𝚎!
@@ -25,24 +26,15 @@
 𝙾𝚑 𝚊𝚗𝚍 𝚖𝚢 𝚎𝚖𝚊𝚒𝚕...𝚝𝚑𝚊𝚝 𝚍𝚘𝚎𝚜 𝚝𝚑𝚎 𝚓𝚘𝚋 𝚝𝚘𝚘:  [𝚊𝚛𝚒𝚎𝚕.𝚢𝚌.𝚕𝚒𝚞@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:ariel.yc.liu@gmail.com)
 
 ### 🍒 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚝𝚑𝚎 𝚏𝚛𝚞𝚒𝚝𝚜 𝚘𝚏 𝚖𝚢 𝚕𝚊𝚋𝚘𝚛: 
-[𝙼𝚢 𝙼𝚎𝚍𝚒𝚞𝚖 ](https://medium.com/@arielycliu)
-    
-[ 𝙼𝚢 𝙳𝚎𝚟𝚙𝚘𝚜𝚝](https://devpost.com/arielycliu)
-
 <p>
-    <a href="https://github.com/arielycliu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+	<a href="https://arielycliu.github.io/" target="_blank"><img alt="Link" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=link&logoColor=white" /></a> 
     <a href="https://www.linkedin.com/in/arielycliu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
     <a href="https://medium.com/@arielycliu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="https://devpost.com/arielycliu" target="_blank"><img alt="Devpost" src="https://img.shields.io/badge/devpost-%230077B5.svg?&style=for-the-badge&logo=devpost&logoColor=white" /></a>
 </p>
 
-
 ---
-<!-- ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielycliu&layout=compact&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff)](https://github.com/arielycliu/github-readme-stats) -->
-
----
 ### 🧰 𝙼𝚢 𝚃𝚘𝚘𝚕𝚔𝚒𝚝: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -53,6 +45,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+
+<!--
+
+[𝙼𝚢 𝙼𝚎𝚍𝚒𝚞𝚖 ](https://medium.com/@arielycliu)
+    
+[ 𝙼𝚢 𝙳𝚎𝚟𝚙𝚘𝚜𝚝](https://devpost.com/arielycliu)
+
+<a href="https://github.com/arielycliu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 
 <details>
   <summary>My Skillsets:</summary>
@@ -69,11 +70,6 @@
     <ul>-  𝙵𝚒𝚐𝚖𝚊 - 𝚐𝚛𝚊𝚙𝚑𝚒𝚌 𝚍𝚎𝚜𝚒𝚐𝚗</ul>  
 </details> 
 
-
-
-
-<!--
-```
 class StudentDeveloper:
     
     def __init__(self):
@@ -98,7 +94,12 @@ class StudentDeveloper:
         
 Ariel = StudentDeveloper()
 Ariel.says_welcome()
-```
+
+---
+
+![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielycliu&show_icons=true&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff&icon_color=fff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielycliu&layout=compact&bg_color=3346,9dabcb,e287c3&title_color=fff&text_color=fff)](https://github.com/arielycliu/github-readme-stats) 
 
 
 #### 𝙰𝙸 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
