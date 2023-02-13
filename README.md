@@ -11,13 +11,12 @@
 
 ### 🔨 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗:
 - [ ] Becoming a SQL Expert
-- [ ] Full Stack
 - [ ] Learning Advanced Github (On Hold)
 - [x] New personal website
-- [x] Hack the Woods
+- [x] Hack the Woods Hackathon
 - [x] Learning quantum computing basics -> quantum number generator
 - [x] Learning Unity -> building a platformer game
-- [ ] Building new Keras projects!
+- [ ] Building new Keras projects! (WIP)
 - [ ] Documenting my AI journey -> making a notion guide (On Hold)
 
 ### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
