@@ -10,12 +10,14 @@
 [𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚠𝚎𝚋𝚜𝚒𝚝𝚎!](https://arielycliu.github.io/)
 
 ### 🔨 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗:
-- [ ] Becoming a SQL Expert
-- [ ] Learning Advanced Github (On Hold)
+- [x] Learning SQL
+- [x] Learning Advanced Github (On Hold)
 - [x] New personal website
 - [x] Hack the Woods Hackathon
 - [x] Learning quantum computing basics -> quantum number generator
 - [x] Learning Unity -> building a platformer game
+- [ ] The odin project
+- [ ] Building a new website -> with react
 - [ ] Building new Keras projects! (WIP)
 - [ ] Documenting my AI journey -> making a notion guide (On Hold)
 
