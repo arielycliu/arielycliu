@@ -10,16 +10,16 @@
 [𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚠𝚎𝚋𝚜𝚒𝚝𝚎!](https://arielycliu.github.io/)
 
 ### 🔨 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗:
-- [x] Learning SQL
-- [x] Learning Advanced Github (On Hold)
-- [x] New personal website
-- [x] Hack the Woods Hackathon
-- [x] Learning quantum computing basics -> quantum number generator
-- [x] Learning Unity -> building a platformer game
-- [ ] The odin project
-- [ ] Building a new website -> with react
-- [ ] Building new Keras projects! (WIP)
-- [ ] Documenting my AI journey -> making a notion guide (On Hold)
+- [𝚡] 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚂𝚀𝙻
+- [𝚡] 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝙶𝚒𝚝𝚑𝚞𝚋 (𝙾𝚗 𝙷𝚘𝚕𝚍)
+- [𝚡] 𝙽𝚎𝚠 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚠𝚎𝚋𝚜𝚒𝚝𝚎
+- [𝚡] 𝙷𝚊𝚌𝚔 𝚝𝚑𝚎 𝚆𝚘𝚘𝚍𝚜 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗
+- [𝚡] 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚚𝚞𝚊𝚗𝚝𝚞𝚖 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 𝚋𝚊𝚜𝚒𝚌𝚜 -> 𝚚𝚞𝚊𝚗𝚝𝚞𝚖 𝚗𝚞𝚖𝚋𝚎𝚛 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚘𝚛
+- [𝚡] 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚄𝚗𝚒𝚝𝚢 -> 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚎𝚛 𝚐𝚊𝚖𝚎
+- [ ] 𝚃𝚑𝚎 𝚘𝚍𝚒𝚗 𝚙𝚛𝚘𝚓𝚎𝚌𝚝
+- [ ] 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊 𝚗𝚎𝚠 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 -> 𝚠𝚒𝚝𝚑 𝚛𝚎𝚊𝚌𝚝
+- [ ] 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚗𝚎𝚠 𝙺𝚎𝚛𝚊𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜! (𝚆𝙸𝙿)
+- [ ] 𝙳𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚖𝚢 𝙰𝙸 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 -> 𝚖𝚊𝚔𝚒𝚗𝚐 𝚊 𝚗𝚘𝚝𝚒𝚘𝚗 𝚐𝚞𝚒𝚍𝚎 (𝙾𝚗 𝙷𝚘𝚕𝚍)
 
 ### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝙶𝚘𝚘𝚍 𝚏𝚘𝚘𝚍, 𝚝𝚎𝚊, 𝚊𝚗𝚍 𝚌𝚘𝚏𝚏𝚎𝚎 𝚠𝚒𝚕𝚕 𝚊𝚕𝚠𝚊𝚢𝚜 𝚜𝚞𝚖𝚖𝚘𝚗 𝚖𝚎!
